@@ -1,0 +1,15 @@
+C:\Users\mhabn\source\repos\CastingNumeros\bin\Release\netcoreapp3.1\CastingNumeros.exe
+C:\Users\mhabn\source\repos\CastingNumeros\bin\Release\netcoreapp3.1\CastingNumeros.deps.json
+C:\Users\mhabn\source\repos\CastingNumeros\bin\Release\netcoreapp3.1\CastingNumeros.runtimeconfig.json
+C:\Users\mhabn\source\repos\CastingNumeros\bin\Release\netcoreapp3.1\CastingNumeros.runtimeconfig.dev.json
+C:\Users\mhabn\source\repos\CastingNumeros\bin\Release\netcoreapp3.1\CastingNumeros.dll
+C:\Users\mhabn\source\repos\CastingNumeros\bin\Release\netcoreapp3.1\CastingNumeros.pdb
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.Form_CastingNumeros.resources
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.csproj.GenerateResource.cache
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.AssemblyInfoInputs.cache
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.AssemblyInfo.cs
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.csproj.CoreCompileInputs.cache
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.dll
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.pdb
+C:\Users\mhabn\source\repos\CastingNumeros\obj\Release\netcoreapp3.1\CastingNumeros.genruntimeconfig.cache

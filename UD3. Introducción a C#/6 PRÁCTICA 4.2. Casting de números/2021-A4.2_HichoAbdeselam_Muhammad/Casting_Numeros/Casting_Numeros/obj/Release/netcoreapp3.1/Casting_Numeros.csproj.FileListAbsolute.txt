@@ -1,0 +1,14 @@
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\bin\Release\netcoreapp3.1\Casting_Numeros.exe
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\bin\Release\netcoreapp3.1\Casting_Numeros.deps.json
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\bin\Release\netcoreapp3.1\Casting_Numeros.runtimeconfig.json
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\bin\Release\netcoreapp3.1\Casting_Numeros.runtimeconfig.dev.json
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\bin\Release\netcoreapp3.1\Casting_Numeros.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\bin\Release\netcoreapp3.1\Casting_Numeros.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.Form1.resources
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.csproj.GenerateResource.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.AssemblyInfo.cs
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Casting_Numeros\Casting_Numeros\obj\Release\netcoreapp3.1\Casting_Numeros.genruntimeconfig.cache
