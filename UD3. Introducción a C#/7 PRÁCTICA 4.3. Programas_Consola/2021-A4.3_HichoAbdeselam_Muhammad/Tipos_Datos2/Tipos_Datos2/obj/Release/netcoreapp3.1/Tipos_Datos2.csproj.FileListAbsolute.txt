@@ -1,0 +1,12 @@
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\bin\Release\netcoreapp3.1\Tipos_Datos2.exe
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\bin\Release\netcoreapp3.1\Tipos_Datos2.deps.json
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\bin\Release\netcoreapp3.1\Tipos_Datos2.runtimeconfig.json
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\bin\Release\netcoreapp3.1\Tipos_Datos2.runtimeconfig.dev.json
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\bin\Release\netcoreapp3.1\Tipos_Datos2.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\bin\Release\netcoreapp3.1\Tipos_Datos2.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\obj\Release\netcoreapp3.1\Tipos_Datos2.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\obj\Release\netcoreapp3.1\Tipos_Datos2.AssemblyInfo.cs
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\obj\Release\netcoreapp3.1\Tipos_Datos2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\obj\Release\netcoreapp3.1\Tipos_Datos2.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\obj\Release\netcoreapp3.1\Tipos_Datos2.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos2\Tipos_Datos2\obj\Release\netcoreapp3.1\Tipos_Datos2.genruntimeconfig.cache

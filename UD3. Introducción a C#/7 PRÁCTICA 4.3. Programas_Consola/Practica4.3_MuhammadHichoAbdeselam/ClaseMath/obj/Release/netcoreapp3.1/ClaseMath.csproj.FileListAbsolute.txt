@@ -1,0 +1,13 @@
+C:\Users\mhabn\source\repos\ClaseMath\bin\Release\netcoreapp3.1\ClaseMath.exe
+C:\Users\mhabn\source\repos\ClaseMath\bin\Release\netcoreapp3.1\ClaseMath.deps.json
+C:\Users\mhabn\source\repos\ClaseMath\bin\Release\netcoreapp3.1\ClaseMath.runtimeconfig.json
+C:\Users\mhabn\source\repos\ClaseMath\bin\Release\netcoreapp3.1\ClaseMath.runtimeconfig.dev.json
+C:\Users\mhabn\source\repos\ClaseMath\bin\Release\netcoreapp3.1\ClaseMath.dll
+C:\Users\mhabn\source\repos\ClaseMath\bin\Release\netcoreapp3.1\ClaseMath.pdb
+C:\Users\mhabn\source\repos\ClaseMath\obj\Release\netcoreapp3.1\ClaseMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhabn\source\repos\ClaseMath\obj\Release\netcoreapp3.1\ClaseMath.AssemblyInfoInputs.cache
+C:\Users\mhabn\source\repos\ClaseMath\obj\Release\netcoreapp3.1\ClaseMath.AssemblyInfo.cs
+C:\Users\mhabn\source\repos\ClaseMath\obj\Release\netcoreapp3.1\ClaseMath.csproj.CoreCompileInputs.cache
+C:\Users\mhabn\source\repos\ClaseMath\obj\Release\netcoreapp3.1\ClaseMath.dll
+C:\Users\mhabn\source\repos\ClaseMath\obj\Release\netcoreapp3.1\ClaseMath.pdb
+C:\Users\mhabn\source\repos\ClaseMath\obj\Release\netcoreapp3.1\ClaseMath.genruntimeconfig.cache

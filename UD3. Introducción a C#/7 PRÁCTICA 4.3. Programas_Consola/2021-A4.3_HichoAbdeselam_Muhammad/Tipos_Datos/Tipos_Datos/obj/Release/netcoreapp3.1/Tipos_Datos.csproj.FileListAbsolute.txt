@@ -1,0 +1,12 @@
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\bin\Release\netcoreapp3.1\Tipos_Datos.exe
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\bin\Release\netcoreapp3.1\Tipos_Datos.deps.json
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\bin\Release\netcoreapp3.1\Tipos_Datos.runtimeconfig.json
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\bin\Release\netcoreapp3.1\Tipos_Datos.runtimeconfig.dev.json
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\bin\Release\netcoreapp3.1\Tipos_Datos.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\bin\Release\netcoreapp3.1\Tipos_Datos.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\obj\Release\netcoreapp3.1\Tipos_Datos.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\obj\Release\netcoreapp3.1\Tipos_Datos.AssemblyInfo.cs
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\obj\Release\netcoreapp3.1\Tipos_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\obj\Release\netcoreapp3.1\Tipos_Datos.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\obj\Release\netcoreapp3.1\Tipos_Datos.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Tipos_Datos\Tipos_Datos\obj\Release\netcoreapp3.1\Tipos_Datos.genruntimeconfig.cache
