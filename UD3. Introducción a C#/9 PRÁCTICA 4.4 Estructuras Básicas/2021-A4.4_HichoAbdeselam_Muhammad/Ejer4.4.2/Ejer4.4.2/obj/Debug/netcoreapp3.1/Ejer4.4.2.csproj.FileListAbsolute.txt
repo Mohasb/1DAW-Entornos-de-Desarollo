@@ -1,0 +1,15 @@
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\netcoreapp3.1\Ejer4.4.2.exe
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\netcoreapp3.1\Ejer4.4.2.deps.json
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\netcoreapp3.1\Ejer4.4.2.runtimeconfig.json
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\netcoreapp3.1\Ejer4.4.2.runtimeconfig.dev.json
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\netcoreapp3.1\Ejer4.4.2.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\bin\Debug\netcoreapp3.1\Ejer4.4.2.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.csprojAssemblyReference.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4._4._2.Form1.resources
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.csproj.GenerateResource.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.AssemblyInfoInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.AssemblyInfo.cs
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.dll
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.pdb
+C:\Users\Muhammad Hicho Abde\source\repos\Ejer4.4.2\Ejer4.4.2\obj\Debug\netcoreapp3.1\Ejer4.4.2.genruntimeconfig.cache

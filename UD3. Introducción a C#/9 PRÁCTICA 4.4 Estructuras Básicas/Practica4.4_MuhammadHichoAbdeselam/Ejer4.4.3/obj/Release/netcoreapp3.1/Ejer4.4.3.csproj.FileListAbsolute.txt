@@ -1,0 +1,15 @@
+C:\Users\mhabn\source\repos\Ejer4.4.3\bin\Release\netcoreapp3.1\Ejer4.4.3.exe
+C:\Users\mhabn\source\repos\Ejer4.4.3\bin\Release\netcoreapp3.1\Ejer4.4.3.deps.json
+C:\Users\mhabn\source\repos\Ejer4.4.3\bin\Release\netcoreapp3.1\Ejer4.4.3.runtimeconfig.json
+C:\Users\mhabn\source\repos\Ejer4.4.3\bin\Release\netcoreapp3.1\Ejer4.4.3.runtimeconfig.dev.json
+C:\Users\mhabn\source\repos\Ejer4.4.3\bin\Release\netcoreapp3.1\Ejer4.4.3.dll
+C:\Users\mhabn\source\repos\Ejer4.4.3\bin\Release\netcoreapp3.1\Ejer4.4.3.pdb
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4._4._3.Form1.resources
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.csproj.GenerateResource.cache
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.AssemblyInfoInputs.cache
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.AssemblyInfo.cs
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.csproj.CoreCompileInputs.cache
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.dll
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.pdb
+C:\Users\mhabn\source\repos\Ejer4.4.3\obj\Release\netcoreapp3.1\Ejer4.4.3.genruntimeconfig.cache
